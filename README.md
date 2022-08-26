@@ -21,8 +21,6 @@ Size: 61 3D volumes (41 Training + 20 Testing)
 Source: Memorial Sloan Kettering Cancer Center  
 Challenge: Large ranging foreground size
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Project-MONAI/tutorials/blob/main/3d_segmentation/spleen_segmentation_3d_lightning.ipynb)
-
 
 # Setup environment
 
